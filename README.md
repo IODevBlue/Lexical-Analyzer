@@ -1,3 +1,3 @@
-# Lexical-Analyzer
+# Java Lexical Analyzer
 
-This Lexical Analyzer in ```Java``` source code is used for academic purposes
+This Lexical Analyzer in ```Java``` source code that takes user input and it is used for academic purposes.
